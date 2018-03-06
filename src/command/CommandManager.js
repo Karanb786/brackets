@@ -34,7 +34,7 @@ define(function (require, exports, module) {
 
     var EventDispatcher = require("utils/EventDispatcher");
 
-
+j
     /**
      * Map of all registered global commands
      * @type {Object.<commandID: string, Command>}
